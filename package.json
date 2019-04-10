@@ -1,0 +1,11 @@
+{
+  "name": "utils",
+  "version": "0.0.1",
+  "description": "utils for achuan",
+  "repository": "https://github.com/lcc19941214/utils",
+  "author": "lcc19941214 <245987239@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "readme": "./generate-readme.sh"
+  }
+}
