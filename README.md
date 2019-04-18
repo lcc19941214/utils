@@ -3,20 +3,6 @@
 
 ## javascript
 
-
-### 基于promise的异步处理
-
-- [index.js](./src/javascript/基于promise的异步处理/index.js)
-
-### 函数节流
-
-- [debounce.js](./src/javascript/函数节流/debounce.js)
-- [throttle.js](./src/javascript/函数节流/throttle.js)
-
-### 转换数字到文字
-
-- [toCN.js](./src/javascript/转换数字到文字/toCN.js)
-- [toEN.js](./src/javascript/转换数字到文字/toEN.js)
 - [dependenciesInject.ts](./src/javascript/dependenciesInject.ts)
 - [flow.js](./src/javascript/flow.js)
 - [get&set.js](./src/javascript/get&set.js)
@@ -32,6 +18,21 @@
 - [typeCheck.js](./src/javascript/typeCheck.js)
 - [多次异步只取最后一次.js](./src/javascript/多次异步只取最后一次.js)
 
+### 基于promise的异步处理
+
+- [index.js](./src/javascript/基于promise的异步处理/index.js)
+
+### 函数节流
+
+- [debounce.js](./src/javascript/函数节流/debounce.js)
+- [throttle.js](./src/javascript/函数节流/throttle.js)
+
+### 转换数字到文字
+
+- [toCN.js](./src/javascript/转换数字到文字/toCN.js)
+- [toEN.js](./src/javascript/转换数字到文字/toEN.js)
+
 ## shell
 
 - [generate-readme.sh](./src/shell/generate-readme.sh)
+- [数组拼接.sh](./src/shell/数组拼接.sh)
