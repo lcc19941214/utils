@@ -7,7 +7,8 @@ echo -e '# Utils\n' > $README
 function generate {
   local DIR=$1
   local anchor=$2
-  for file in `ls $DIR`;
+  # `--group-directories-first` must be used with coreutils (brew install coreutils)
+  for file in `ls --group-directories-first $DIR`;
   do
     local dir="$DIR/$file"
     if [ -d $dir ]; then
