@@ -8,7 +8,7 @@ function generate {
   local DIR=$1
   local anchor=$2
   # `--group-directories-first` must be used with coreutils (brew install coreutils)
-  for file in `ls --group-directories-first $DIR`;
+  for file in `gls --group-directories-first $DIR`;
   do
     local dir="$DIR/$file"
     if [ -d $dir ]; then
