@@ -1,6 +1,10 @@
 # Utils
 
 
+## git
+
+- [查找并过滤指定两个提交中改动过的文件.sh](./src/git/查找并过滤指定两个提交中改动过的文件.sh)
+
 ## javascript
 
 - [dependenciesInject.ts](./src/javascript/dependenciesInject.ts)
@@ -22,14 +26,14 @@
 
 - [README.md](./src/javascript/Observer/README.md)
 
+### 基于promise的异步处理
+
+- [index.js](./src/javascript/基于promise的异步处理/index.js)
+
 ### 函数节流
 
 - [debounce.js](./src/javascript/函数节流/debounce.js)
 - [throttle.js](./src/javascript/函数节流/throttle.js)
-
-### 基于promise的异步处理
-
-- [index.js](./src/javascript/基于promise的异步处理/index.js)
 
 ### 转换数字到文字
 
