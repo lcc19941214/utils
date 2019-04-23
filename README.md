@@ -18,14 +18,18 @@
 - [typeCheck.js](./src/javascript/typeCheck.js)
 - [多次异步只取最后一次.js](./src/javascript/多次异步只取最后一次.js)
 
-### 基于promise的异步处理
+### Observer
 
-- [index.js](./src/javascript/基于promise的异步处理/index.js)
+- [README.md](./src/javascript/Observer/README.md)
 
 ### 函数节流
 
 - [debounce.js](./src/javascript/函数节流/debounce.js)
 - [throttle.js](./src/javascript/函数节流/throttle.js)
+
+### 基于promise的异步处理
+
+- [index.js](./src/javascript/基于promise的异步处理/index.js)
 
 ### 转换数字到文字
 
@@ -36,3 +40,7 @@
 
 - [generate-readme.sh](./src/shell/generate-readme.sh)
 - [数组拼接.sh](./src/shell/数组拼接.sh)
+
+## typescript
+
+- [从函数参数中取出指定项的类型.ts](./src/typescript/从函数参数中取出指定项的类型.ts)
