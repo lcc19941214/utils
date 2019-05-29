@@ -44,6 +44,8 @@
 
 - [generate-readme.sh](./src/shell/generate-readme.sh)
 - [数组拼接.sh](./src/shell/数组拼接.sh)
+- [截取指定行的文本.sh](./src/shell/截取指定行的文本.sh)
+- [为函数传入数组作为参数.sh](./src/shell/为函数传入数组作为参数.sh)
 
 ## typescript
 
