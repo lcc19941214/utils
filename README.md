@@ -12,6 +12,7 @@
 - [get&set.js](./src/javascript/get&set.js)
 - [grabScroll.js](./src/javascript/grabScroll.js)
 - [isElementVisible.js](./src/javascript/isElementVisible.js)
+- [linearizePromise.js](./src/javascript/linearizePromise.js)
 - [math-tool-chain.js](./src/javascript/math-tool-chain.js)
 - [node-rename.js](./src/javascript/node-rename.js)
 - [querystring.js](./src/javascript/querystring.js)
