@@ -41,6 +41,10 @@
 - [toCN.js](./src/javascript/转换数字到文字/toCN.js)
 - [toEN.js](./src/javascript/转换数字到文字/toEN.js)
 
+## nginx
+
+- [forward.conf](./src/nginx/forward.conf)
+
 ## shell
 
 - [generate-readme.sh](./src/shell/generate-readme.sh)
