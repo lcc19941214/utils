@@ -27,9 +27,13 @@
 
 - [README.md](./src/javascript/Observer/README.md)
 
-### 基于promise的异步处理
+### promise
 
-- [index.js](./src/javascript/基于promise的异步处理/index.js)
+- [promise-all.js](./src/javascript/promise/promise-all.js)
+
+#### 基于promise的异步处理
+
+- [index.js](./src/javascript/promise/基于promise的异步处理/index.js)
 
 ### 函数节流
 
