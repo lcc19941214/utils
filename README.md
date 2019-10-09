@@ -51,12 +51,12 @@
 
 ## shell
 
-- [find-排除指定目录查找文件.sh](./src/shell/find-排除指定目录查找文件.sh)
+- [find-grep-排除目录.sh](./src/shell/find-grep-排除目录.sh)
 - [generate-readme.sh](./src/shell/generate-readme.sh)
-- [grep-在指定目录下查找字符串.sh](./src/shell/grep-在指定目录下查找字符串.sh)
 - [数组拼接.sh](./src/shell/数组拼接.sh)
 - [截取指定行的文本.sh](./src/shell/截取指定行的文本.sh)
 - [为函数传入数组作为参数.sh](./src/shell/为函数传入数组作为参数.sh)
+- [查询包含字符串的文件并输出文件名.sh](./src/shell/查询包含字符串的文件并输出文件名.sh)
 
 ## typescript
 
