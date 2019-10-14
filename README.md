@@ -60,7 +60,7 @@
 
 ## typescript
 
-- [从函数参数中取出指定项的类型.ts](./src/typescript/从函数参数中取出指定项的类型.ts)
+- [工具泛型.ts](./src/typescript/工具泛型.ts)
 
 ### declaration-files
 
