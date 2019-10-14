@@ -35,6 +35,19 @@
 
 - [index.js](./src/javascript/promise/基于promise的异步处理/index.js)
 
+### typescript
+
+
+#### declaration-files
+
+- [global-modifying-module.d.ts](./src/javascript/typescript/declaration-files/global-modifying-module.d.ts)
+- [global-plugin.d.ts](./src/javascript/typescript/declaration-files/global-plugin.d.ts)
+- [global.d.ts](./src/javascript/typescript/declaration-files/global.d.ts)
+- [module-class.d.ts](./src/javascript/typescript/declaration-files/module-class.d.ts)
+- [module-function.d.ts](./src/javascript/typescript/declaration-files/module-function.d.ts)
+- [module-plugin.d.ts](./src/javascript/typescript/declaration-files/module-plugin.d.ts)
+- [module.d.ts](./src/javascript/typescript/declaration-files/module.d.ts)
+
 ### 函数节流
 
 - [debounce.js](./src/javascript/函数节流/debounce.js)
