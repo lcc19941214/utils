@@ -10,6 +10,7 @@ type Readonly<T> = {
   readonly [P in keyof T]: T[P];
 };
 
+// not built-in
 type Mutable<T> = {
   -readonly [P in keyof T]: T[P];
 };
