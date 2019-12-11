@@ -61,6 +61,10 @@
 - [child.js](./src/nodejs/child_process/fork/child.js)
 - [main.js](./src/nodejs/child_process/fork/main.js)
 
+### cluster
+
+- [index.js](./src/nodejs/cluster/index.js)
+
 ## shell
 
 - [find-grep-排除目录.sh](./src/shell/find-grep-排除目录.sh)
