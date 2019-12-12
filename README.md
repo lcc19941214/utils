@@ -65,6 +65,15 @@
 
 - [index.js](./src/nodejs/cluster/index.js)
 
+#### reusable
+
+- [index.js](./src/nodejs/cluster/reusable/index.js)
+- [master.js](./src/nodejs/cluster/reusable/master.js)
+
+### worker_threads
+
+- [index.js](./src/nodejs/worker_threads/index.js)
+
 ## shell
 
 - [find-grep-排除目录.sh](./src/shell/find-grep-排除目录.sh)
