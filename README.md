@@ -12,7 +12,6 @@
 - [get&set.js](./src/javascript/get&set.js)
 - [grabScroll.js](./src/javascript/grabScroll.js)
 - [isElementVisible.js](./src/javascript/isElementVisible.js)
-- [linearizePromise.js](./src/javascript/linearizePromise.js)
 - [math-tool-chain.js](./src/javascript/math-tool-chain.js)
 - [node-rename.js](./src/javascript/node-rename.js)
 - [querystring.js](./src/javascript/querystring.js)
@@ -21,15 +20,19 @@
 - [responsive.js](./src/javascript/responsive.js)
 - [templateEngine.js](./src/javascript/templateEngine.js)
 - [typeCheck.js](./src/javascript/typeCheck.js)
-- [多次异步只取最后一次.js](./src/javascript/多次异步只取最后一次.js)
 
 ### Observer
 
 - [README.md](./src/javascript/Observer/README.md)
 
+### modules
+
+- [umd.js](./src/javascript/modules/umd.js)
+
 ### promise
 
 - [promise-all.js](./src/javascript/promise/promise-all.js)
+- [多次异步只取最后一次.js](./src/javascript/promise/多次异步只取最后一次.js)
 
 #### 基于promise的异步处理
 
