@@ -3,6 +3,7 @@
 
 ## git
 
+- [filter-branch.sh](./src/git/filter-branch.sh)
 - [查找并过滤指定两个提交中改动过的文件.sh](./src/git/查找并过滤指定两个提交中改动过的文件.sh)
 
 ## javascript
